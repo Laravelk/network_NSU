@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: dnsjava:dnsjava:2.1.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.9/1570e1d39be4cec06db9c682597c8b7ee0b201a5/dnsjava-2.1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.9/e1fbb25cf51b80fee65ba3d3435c39149bce736c/dnsjava-2.1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
